@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Anders",
+	"position": [
+		134,
+		97
+	],
+	"scale": 0.5,
+	"idle_anim": "Anders idle dance BLACK LINE",
+	"confirm_anim": "M Dad Idle"
+}
