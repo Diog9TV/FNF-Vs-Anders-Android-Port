@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Pentafluoride", "anders", [146, 113, 253]],
+		["Diminished", "anders", [146, 113, 253]],
+		["Psychoneurotic", "andersfearsome", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"anders",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "Agent Anders",
+	"weekBefore": "tutorial",
+	"weekName": "anders",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
