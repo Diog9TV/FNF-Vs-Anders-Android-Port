@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "anders_f_idle"
+		},
+		{
+			"offsets": [
+				100,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "anders_f_left_note"
+		},
+		{
+			"offsets": [
+				20,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "anders_f_down_note"
+		},
+		{
+			"offsets": [
+				-23,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "anders_f_right_note"
+		},
+		{
+			"offsets": [
+				-2,
+				132
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "anders_f_up_note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/anders_fearsome",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "andersfearsome",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
